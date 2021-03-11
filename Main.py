@@ -4,7 +4,7 @@
 Created on Mon Mar  1 17:09:05 2021
 
 @author: Jeremiah Smith
-Date   : 03/01/2021
+Date   : 03/11/2021
 Lab    : Dijkstras algorithm
 
 - left click to place a start point, end point, and walls 
