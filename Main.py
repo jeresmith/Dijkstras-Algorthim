@@ -3,7 +3,7 @@
 """
 Created on Mon Mar  1 17:09:05 2021
 
-@author: jeremiah smith
+@author: Jeremiah Smith
 Date   : 03/01/2021
 Lab    : Dijkstras algorithm
 
