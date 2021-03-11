@@ -10,7 +10,7 @@ Lab    : Dijkstras algorithm
 - left click to place a start point, end point, and walls 
 - Right click to erase any points
 - Press the space bar to begin the algorthim 
-
+pulled
 """
 
 
